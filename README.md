@@ -1,1 +1,1 @@
-# NiCe_interview_task - HLD
+# NICE_interview_task - HLD
